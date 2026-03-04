@@ -8,6 +8,8 @@ This repository contains my hands-on practice while learning pandas for data ana
 - GroupBy operations
 - Pivot & Melt
 - Aggregations (mean, max, etc.)
+- Date range
+- CrossTab
 
 ## Goal
 Build strong data manipulation skills before moving into machine learning.
