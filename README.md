@@ -10,6 +10,7 @@ This repository contains my hands-on practice while learning pandas for data ana
 - Aggregations (mean, max, etc.)
 - Date range
 - CrossTab
+- Deleting
 
 ## Goal
 Build strong data manipulation skills before moving into machine learning.
