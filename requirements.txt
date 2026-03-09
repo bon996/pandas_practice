@@ -1,1 +1,3 @@
 1. Visual Studio and Jupyter notebook as Code editor
+2. Python 3.13.9  kernel
+
