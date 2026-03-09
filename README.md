@@ -11,7 +11,8 @@ This repository contains my hands-on practice while learning pandas for data ana
 - Date range
 - CrossTab
 - Deleting
-- grouping 
+- grouping
+- Filtering and sorting
 
 ## Goal
 Build strong data manipulation skills before moving into machine learning.
