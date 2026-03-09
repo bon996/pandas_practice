@@ -1,6 +1,8 @@
 # Pandas Practice
 
 This repository contains my hands-on practice while learning pandas for data analysis.
+And also the reading materials I use. 
+And cheatsheet🤫🤭
 
 ## Topics Covered
 - Handling missing values
