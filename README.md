@@ -16,6 +16,7 @@ And cheatsheet🤫🤭
 - grouping
 - Filtering and sorting
 
+
 ## Goal
 Build strong data manipulation skills before moving into machine learning.
 Enjoying every progress
