@@ -1,6 +1,6 @@
 # My Pandas Practice
 
-This repository contains my solutions to various exercises on **Pandas**.
+This repository contains my solutions to various exercises on **Pandas** and also a few exercises on **numpy**
 
 ## Credit
 
@@ -23,10 +23,7 @@ And cheatsheet🤫🤭
 - grouping
 - Filtering and sorting
 
-
 ## Goal
 
 Build strong data manipulation skills before moving into machine learning.
 Enjoying every progress
-
- 
