@@ -27,3 +27,5 @@ And cheatsheet🤫🤭
 
 Build strong data manipulation skills before moving into machine learning.
 Enjoying every progress
+
+The main goal of this is to develop a good understanding of datas before diving into machine learning
