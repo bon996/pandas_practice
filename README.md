@@ -1,4 +1,3 @@
-
 # My Pandas Practice
 
 This repository contains my solutions to various exercises on **Pandas** and also a few exercises on **numpy**
